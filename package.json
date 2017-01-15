@@ -1,8 +1,7 @@
 {
   "name": "Internal CSS Editor",
-  "version": "1.0.0",
+  "version": "BETA",
   "description": "A light-weight application utilized to provide live CSS demos",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
