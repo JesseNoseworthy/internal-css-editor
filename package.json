@@ -1,12 +1,12 @@
 {
-  "name": "hygulptest",
+  "name": "Internal CSS Editor",
   "version": "1.0.0",
-  "description": "Our first gulp project",
+  "description": "A light-weight application utilized to provide live CSS demos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Corey Lantz",
+  "author": "Jesse Noseworthy",
   "license": "ISC",
   "devDependencies": {
     "babel-preset-es2015": "^6.9.0",
