@@ -2,5 +2,5 @@
 
 A light-weight application utilized to provide live CSS demos.
 
-Link: [CSS Editor](http://jessenoseworthy.com/css-editor/)
+Link: <a href="http://jessenoseworthy.com/css-editor/" target="_blank">CSS Edtior</a>
 
